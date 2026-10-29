@@ -265,6 +265,10 @@ My next three improvements would be:
   project. Because the assignment asks for a prompt pasted exactly as
   sent, replace this with the original wording from your chat history if
   you can retrieve it.
+
+
+PROMPT : 
+
   I'm building an Android app called Tiffin using Kotlin and Jetpack
   Compose for an Android Developer Intern assignment. The app should
   have a kitchen listing screen loaded from a local JSON asset, a
