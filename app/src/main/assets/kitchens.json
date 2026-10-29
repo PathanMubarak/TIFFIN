@@ -1,0 +1,243 @@
+
+[
+  {
+    "id": "k1",
+    "name": "Amma's Kitchen",
+    "cuisine": "Andhra Home Food",
+    "price": 120,
+    "isVeg": true,
+    "rating": 4.9,
+    "description": "Homestyle Andhra meals prepared fresh every morning.",
+    "deliveryTime": "25–35 min",
+    "tags": ["Homestyle", "Bestseller"],
+    "menu": [
+      {"day":"Monday","mealName":"Andhra Meals","description":"Rice, pappu, seasonal curry, rasam and curd"},
+      {"day":"Tuesday","mealName":"Tomato Pappu Meals","description":"Rice, tomato dal, beans fry and curd"},
+      {"day":"Wednesday","mealName":"Sambar Meals","description":"Rice, sambar, potato fry and pickle"},
+      {"day":"Thursday","mealName":"Gongura Meals","description":"Rice, gongura pappu, vegetable fry and curd"},
+      {"day":"Friday","mealName":"Special Veg Meals","description":"Rice, dal, two curries, rasam and dessert"},
+      {"day":"Saturday","mealName":"Pulihora Combo","description":"Pulihora, potato fry, curd and papad"},
+      {"day":"Sunday","mealName":"Sunday Special","description":"Rice, dal, seasonal curries and sweet"}
+    ]
+  },
+  {
+    "id": "k2",
+    "name": "The Dabba House",
+    "cuisine": "North Indian",
+    "price": 149,
+    "isVeg": true,
+    "rating": 4.7,
+    "description": "Comforting North Indian thalis with fresh rotis.",
+    "deliveryTime": "30–40 min",
+    "tags": ["Fresh Rotis"],
+    "menu": [
+      {"day":"Monday","mealName":"Dal Tadka Thali","description":"Rice, dal tadka, 3 rotis and seasonal sabzi"},
+      {"day":"Tuesday","mealName":"Rajma Chawal","description":"Rajma, steamed rice, salad and curd"},
+      {"day":"Wednesday","mealName":"Chole Thali","description":"Chole, rotis, rice and onion salad"},
+      {"day":"Thursday","mealName":"Paneer Thali","description":"Paneer curry, rotis, rice and salad"},
+      {"day":"Friday","mealName":"Kadhi Chawal","description":"Kadhi pakora, rice and seasonal sabzi"},
+      {"day":"Saturday","mealName":"Veg Pulao","description":"Pulao, raita and paneer side"},
+      {"day":"Sunday","mealName":"Special Thali","description":"Rotis, dal, paneer, rice and dessert"}
+    ]
+  },
+  {
+    "id": "k3",
+    "name": "Coastal Curry Kitchen",
+    "cuisine": "Coastal Andhra",
+    "price": 180,
+    "isVeg": false,
+    "rating": 4.8,
+    "description": "Bold coastal flavours and freshly prepared curries.",
+    "deliveryTime": "35–45 min",
+    "tags": ["Coastal Special"],
+    "menu": [
+      {"day":"Monday","mealName":"Chicken Curry Meals","description":"Rice, chicken curry and seasonal sides"},
+      {"day":"Tuesday","mealName":"Fish Curry Meals","description":"Rice, fish curry and vegetable sides"},
+      {"day":"Wednesday","mealName":"Chicken Fry Meals","description":"Rice, chicken fry and pappu"},
+      {"day":"Thursday","mealName":"Prawn Curry Meals","description":"Rice, prawn curry and vegetable sides"},
+      {"day":"Friday","mealName":"Special Chicken Meals","description":"Rice, chicken curry, fry and rasam"},
+      {"day":"Saturday","mealName":"Fish Fry Combo","description":"Rice, fish fry, curry and salad"},
+      {"day":"Sunday","mealName":"Coastal Feast","description":"Rice, chicken special and seasonal sides"}
+    ]
+  },
+  {
+    "id": "k4",
+    "name": "Millet & More",
+    "cuisine": "Healthy Indian",
+    "price": 135,
+    "isVeg": true,
+    "rating": 4.6,
+    "description": "Balanced everyday meals with wholesome ingredients.",
+    "deliveryTime": "25–35 min",
+    "tags": ["Healthy"],
+    "menu": [
+      {"day":"Monday","mealName":"Millet Bowl","description":"Millet, dal and seasonal vegetables"},
+      {"day":"Tuesday","mealName":"Jowar Roti Meal","description":"Jowar rotis, vegetable curry and curd"},
+      {"day":"Wednesday","mealName":"Brown Rice Bowl","description":"Brown rice, dal and greens"},
+      {"day":"Thursday","mealName":"Ragi Roti Meal","description":"Ragi rotis, curry and salad"},
+      {"day":"Friday","mealName":"Protein Veg Bowl","description":"Millets, chickpeas and vegetables"},
+      {"day":"Saturday","mealName":"Vegetable Khichdi","description":"Millet khichdi, curd and pickle"},
+      {"day":"Sunday","mealName":"Healthy Special","description":"Seasonal grains, dal and vegetables"}
+    ]
+  },
+  {
+    "id": "k5",
+    "name": "Nani's Recipe Box",
+    "cuisine": "Traditional Indian",
+    "price": 110,
+    "isVeg": true,
+    "rating": 4.8,
+    "description": "Traditional family recipes made with care.",
+    "deliveryTime": "30–40 min",
+    "tags": ["Family Favourite"],
+    "menu": [
+      {"day":"Monday","mealName":"Dal Rice","description":"Rice, home-style dal, fry and curd"},
+      {"day":"Tuesday","mealName":"Vegetable Pulao","description":"Pulao, raita and pickle"},
+      {"day":"Wednesday","mealName":"Chapati Meal","description":"Chapatis, vegetable curry and dal"},
+      {"day":"Thursday","mealName":"Lemon Rice","description":"Lemon rice, vegetable fry and curd"},
+      {"day":"Friday","mealName":"Traditional Thali","description":"Rice, dal, curries and rasam"},
+      {"day":"Saturday","mealName":"Curd Rice Combo","description":"Curd rice, pickle and vegetable fry"},
+      {"day":"Sunday","mealName":"Family Special","description":"Rice, dal, curry and homemade sweet"}
+    ]
+  },
+  {
+    "id": "k6",
+    "name": "Punjab on a Plate",
+    "cuisine": "Punjabi",
+    "price": 165,
+    "isVeg": true,
+    "rating": 4.7,
+    "description": "Rich Punjabi comfort food and freshly made rotis.",
+    "deliveryTime": "35–45 min",
+    "tags": ["North Indian"],
+    "menu": [
+      {"day":"Monday","mealName":"Dal Makhani","description":"Dal makhani, rice and rotis"},
+      {"day":"Tuesday","mealName":"Chole Kulcha","description":"Chole, kulcha and onion salad"},
+      {"day":"Wednesday","mealName":"Paneer Curry","description":"Paneer curry, rotis and rice"},
+      {"day":"Thursday","mealName":"Kadhi Pakora","description":"Kadhi, pakora and steamed rice"},
+      {"day":"Friday","mealName":"Punjabi Thali","description":"Dal, paneer, rotis and rice"},
+      {"day":"Saturday","mealName":"Chole Rice","description":"Chole, rice and salad"},
+      {"day":"Sunday","mealName":"Special Punjabi Meal","description":"Seasonal curry, dal and rotis"}
+    ]
+  },
+  {
+    "id": "k7",
+    "name": "Bengal Bowl",
+    "cuisine": "Bengali",
+    "price": 175,
+    "isVeg": false,
+    "rating": 4.6,
+    "description": "Bengali-inspired home meals with comforting flavours.",
+    "deliveryTime": "35–45 min",
+    "tags": ["Regional"],
+    "menu": [
+      {"day":"Monday","mealName":"Fish Curry Rice","description":"Rice, fish curry and vegetables"},
+      {"day":"Tuesday","mealName":"Egg Curry Meal","description":"Rice, egg curry and seasonal sides"},
+      {"day":"Wednesday","mealName":"Chicken Curry","description":"Rice, chicken curry and vegetables"},
+      {"day":"Thursday","mealName":"Fish Special","description":"Rice, fish preparation and dal"},
+      {"day":"Friday","mealName":"Bengali Thali","description":"Rice, curry, dal and vegetable sides"},
+      {"day":"Saturday","mealName":"Egg Rice Bowl","description":"Rice, egg curry and salad"},
+      {"day":"Sunday","mealName":"Sunday Fish Feast","description":"Rice, fish curry and traditional sides"}
+    ]
+  },
+  {
+    "id": "k8",
+    "name": "The Roti Room",
+    "cuisine": "Everyday North Indian",
+    "price": 125,
+    "isVeg": true,
+    "rating": 4.5,
+    "description": "Simple daily meals with fresh rotis and sabzi.",
+    "deliveryTime": "20–30 min",
+    "tags": ["Everyday Value"],
+    "menu": [
+      {"day":"Monday","mealName":"Roti Sabzi","description":"Rotis, seasonal sabzi and dal"},
+      {"day":"Tuesday","mealName":"Aloo Paratha Meal","description":"Parathas, curd and pickle"},
+      {"day":"Wednesday","mealName":"Dal Roti","description":"Dal, rotis and salad"},
+      {"day":"Thursday","mealName":"Paneer Roti Meal","description":"Paneer curry and fresh rotis"},
+      {"day":"Friday","mealName":"Veg Pulao","description":"Pulao, raita and salad"},
+      {"day":"Saturday","mealName":"Chole Roti","description":"Chole, rotis and onion salad"},
+      {"day":"Sunday","mealName":"Weekend Thali","description":"Dal, sabzi, rotis and rice"}
+    ]
+  },
+  {
+    "id": "k9",
+    "name": "Chennai Meal Co.",
+    "cuisine": "Tamil Home Food",
+    "price": 130,
+    "isVeg": true,
+    "rating": 4.7,
+    "description": "South Indian meals inspired by home cooking.",
+    "deliveryTime": "25–35 min",
+    "tags": ["South Indian"],
+    "menu": [
+      {"day":"Monday","mealName":"Sambar Rice","description":"Sambar rice, poriyal and curd"},
+      {"day":"Tuesday","mealName":"Lemon Rice","description":"Lemon rice, vegetable curry and appalam"},
+      {"day":"Wednesday","mealName":"Curd Rice Meal","description":"Curd rice, pickle and poriyal"},
+      {"day":"Thursday","mealName":"Rasam Meals","description":"Rice, rasam, kootu and poriyal"},
+      {"day":"Friday","mealName":"South Indian Thali","description":"Rice, sambar, rasam and sides"},
+      {"day":"Saturday","mealName":"Tamarind Rice","description":"Puliyodarai, curd and vegetable side"},
+      {"day":"Sunday","mealName":"Weekend Meals","description":"Rice, sambar, poriyal and sweet"}
+    ]
+  },
+  {
+    "id": "k10",
+    "name": "HomePlate Hyderabad",
+    "cuisine": "Hyderabadi",
+    "price": 155,
+    "isVeg": false,
+    "rating": 4.8,
+    "description": "Hearty meals with Hyderabadi-inspired flavours.",
+    "deliveryTime": "30–40 min",
+    "tags": ["Local Favourite"],
+    "menu": [
+      {"day":"Monday","mealName":"Chicken Curry Rice","description":"Rice, chicken curry and salad"},
+      {"day":"Tuesday","mealName":"Keema Rice","description":"Keema, rice and seasonal sides"},
+      {"day":"Wednesday","mealName":"Chicken Pulao","description":"Chicken pulao and raita"},
+      {"day":"Thursday","mealName":"Egg Curry Rice","description":"Rice, egg curry and vegetables"},
+      {"day":"Friday","mealName":"Hyderabadi Thali","description":"Rice, curry, dal and sides"},
+      {"day":"Saturday","mealName":"Chicken Masala","description":"Rice, chicken masala and salad"},
+      {"day":"Sunday","mealName":"Sunday Special","description":"Chicken special, rice and raita"}
+    ]
+  },
+  {
+    "id": "k11",
+    "name": "Green Leaf Kitchen",
+    "cuisine": "Vegetarian Indian",
+    "price": 115,
+    "isVeg": true,
+    "rating": 4.6,
+    "description": "Fresh vegetarian cooking for everyday lunches.",
+    "deliveryTime": "20–30 min",
+    "tags": ["100% Veg"],
+    "menu": [
+      {"day":"Monday","mealName":"Veg Thali","description":"Rice, dal, sabzi and curd"},
+      {"day":"Tuesday","mealName":"Paneer Rice Bowl","description":"Rice, paneer curry and salad"},
+      {"day":"Wednesday","mealName":"Dal Khichdi","description":"Khichdi, curd and pickle"},
+      {"day":"Thursday","mealName":"Chapati Combo","description":"Chapatis, mixed veg and dal"},
+      {"day":"Friday","mealName":"Special Veg Meals","description":"Rice, two curries, dal and curd"},
+      {"day":"Saturday","mealName":"Vegetable Pulao","description":"Pulao, raita and salad"},
+      {"day":"Sunday","mealName":"Sunday Veg Thali","description":"Rice, dal, seasonal curry and sweet"}
+    ]
+  },
+  {
+    "id": "k12",
+    "name": "Malabar Lunchbox",
+    "cuisine": "Kerala",
+    "price": 170,
+    "isVeg": false,
+    "rating": 4.7,
+    "description": "Kerala-inspired home cooking with fragrant spices.",
+    "deliveryTime": "35–45 min",
+    "tags": ["Regional Special"],
+    "menu": [
+      {"day":"Monday","mealName":"Kerala Veg Meals","description":"Rice, sambar, thoran and pickle"},
+      {"day":"Tuesday","mealName":"Chicken Curry Rice","description":"Rice, Kerala chicken curry and sides"},
+      {"day":"Wednesday","mealName":"Fish Curry Rice","description":"Rice, fish curry and vegetable sides"},
+      {"day":"Thursday","mealName":"Appam Combo","description":"Appam and vegetable stew"},
+      {"day":"Friday","mealName":"Kerala Special","description":"Rice, curry, thoran and traditional sides"},
+      {"day":"Saturday","mealName":"Chicken Roast Meal","description":"Rice, chicken roast and vegetables"},
+      {"day":"Sunday","mealName":"Sunday Feast","description":"Rice, curry and Kerala-style sides"}
+    ]
+  }
+]
